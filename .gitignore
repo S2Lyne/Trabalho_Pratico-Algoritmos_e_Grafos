@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Conda / venv
+.env
+.venv
+env/
+venv/
+*.egg-info/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Artefatos gerados
+#data/graphs/
+#outputs/results.csv
+#outputs/plots/
+#outputs/viz/
+
+# Se quiser versionar as imagens do relatório, remova as 3 linhas acima
+# (outputs/results.csv, outputs/plots, outputs/viz)

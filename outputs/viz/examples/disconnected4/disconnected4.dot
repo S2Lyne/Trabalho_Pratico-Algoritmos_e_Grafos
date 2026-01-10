@@ -1,0 +1,11 @@
+graph G {
+  overlap=false;
+  splines=true;
+  node [shape=circle];
+  1;
+  2;
+  3;
+  4;
+  1 -- 2;
+  3 -- 4;
+}

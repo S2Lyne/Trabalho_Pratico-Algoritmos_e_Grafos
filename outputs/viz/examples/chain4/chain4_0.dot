@@ -1,0 +1,12 @@
+graph G {
+  overlap=false;
+  splines=true;
+  node [shape=circle];
+  0;
+  1;
+  2;
+  3;
+  0 -- 1 [color=red, penwidth=3];
+  1 -- 2 [color=red, penwidth=3];
+  2 -- 3 [color=red, penwidth=3];
+}

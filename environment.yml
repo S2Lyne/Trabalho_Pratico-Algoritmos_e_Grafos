@@ -1,0 +1,11 @@
+## Conteúdo do `environment.yml`
+
+name: algo_grafos_hp
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - pandas
+  - matplotlib
+  - graphviz
